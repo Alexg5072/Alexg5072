@@ -15,7 +15,7 @@
 
   <h2>
     <picture
-      ><img src="./assets/about_me.gif" width="25px"
+      ><img src="./assets/about_w.gif" width="25px"
     /></picture>
     / About me /
   </h2>
