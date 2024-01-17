@@ -1,7 +1,6 @@
 <div>
   <div align="top">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yanone+Kaffeesatz&pause=1000&random=false&width=435&lines=HOLA+mi+nombre+es+Alex;soy+desarrollador+de+software" alt="Typing SVG" /></a>
-  </div>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yanone+Kaffeesatz&weight=800&pause=1000&color=F72929&background=2A2A2A00&random=false&width=600&height=60&lines=HOLA+mi+nombre+es+Alex;soy+desarrollador+de+software" alt="Typing SVG" /></a>
 
 <img
     align="right"
