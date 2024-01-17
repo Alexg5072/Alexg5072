@@ -48,24 +48,15 @@
 
 <div align="left">
     <a
-      href="https://twitter.com/alexg"
-      target="_blank">
-      <img
-        src="https://img.shields.io/badge/alexG-22092C?style=flat-square&logo=x"
-        alt="twitter" />
+    href="https://instagram.com/alexguerrero_1727"
+    target="_blank">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Iam_alexxander_-black?style=flat&logo=instagram&logoColor=%23cd486b&color=%23fccc63">
     </a>
     <a
-      href="https://www.linkedin.com/in/ale-roses/"
+      href="https://github.com/Alexg5072"
       target="_blank">
       <img
-        src="https://img.shields.io/badge/alexg-black?style=social&logo=linkedin"
-        t="linkedin" />
-    </a>
-    <a
-      href="https://github.com/aleX"
-      target="_blank">
-      <img
-        src="https://img.shields.io/badge/aleroses-black?style=flat-square&logo=github"
+        src="https://img.shields.io/badge/Iamalexxander-black?style=flat-square&logo=github"
         t="github" />
     </a>
     
