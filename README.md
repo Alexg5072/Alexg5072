@@ -9,7 +9,7 @@
 
 <img
     align="right"
-    width="260"
+    width="450"
     alt="Shimarin"
     src="./assets/bye-deadpool.gif" />
 
