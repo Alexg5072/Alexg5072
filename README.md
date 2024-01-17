@@ -56,7 +56,7 @@
       <img
         src="https://img.shields.io/badge/Alexg5072-black?style=flat-square&logo=github"
         t="github" />
-    </a>
+
     
   </div>
 </div>
