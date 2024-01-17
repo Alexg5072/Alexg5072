@@ -56,18 +56,18 @@
       href="https://twitter.com/alexg"
       target="_blank">
       <img
-        src="https://img.shields.io/badge/alerxses-22092C?style=flat-square&logo=x"
+        src="https://img.shields.io/badge/alexG-22092C?style=flat-square&logo=x"
         alt="twitter" />
     </a>
     <a
       href="https://www.linkedin.com/in/ale-roses/"
       target="_blank">
       <img
-        src="https://img.shields.io/badge/aleroses-black?style=social&logo=linkedin"
+        src="https://img.shields.io/badge/alexg-black?style=social&logo=linkedin"
         t="linkedin" />
     </a>
     <a
-      href="https://github.com/aleroses"
+      href="https://github.com/aleX"
       target="_blank">
       <img
         src="https://img.shields.io/badge/aleroses-black?style=flat-square&logo=github"
