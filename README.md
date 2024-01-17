@@ -50,13 +50,13 @@
     <a
     href="https://instagram.com/alexguerrero_1727"
     target="_blank">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Iam_alexxander_-black?style=flat&logo=instagram&logoColor=%23cd486b&color=%23fccc63">
+      <img alt="Static Badge" src="https://img.shields.io/badge/alexguerrero_1727-black?style=flat&logo=instagram&logoColor=%23cd486b&color=%23fccc63">
     </a>
     <a
       href="https://github.com/Alexg5072"
       target="_blank">
       <img
-        src="https://img.shields.io/badge/Iamalexxander-black?style=flat-square&logo=github"
+        src="https://img.shields.io/badge/Alexg5072-black?style=flat-square&logo=github"
         t="github" />
     </a>
     
